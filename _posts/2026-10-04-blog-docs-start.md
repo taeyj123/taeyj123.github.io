@@ -2,7 +2,7 @@
 title: 블로그/기술문서 시작
 date: 2026-10-04 09:00:00 +0900
 categories: [블로그/기술문서]
-tags: [blog, github-pages]
+tags: [blog, github]
 ---
 
 이 블로그를 만든 과정과 기술 문서를 이곳에 정리합니다.
